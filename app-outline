@@ -1,0 +1,40 @@
+- Screens
+  
+  - Login
+    -First Time Only
+    -Through Google, Facebook, Twitter
+    -Save login creditentials
+  
+  - Main Screen
+    -Drop Down Menu
+      -Home
+      -Log(s)
+      -Pet Profile(s)
+      -Settings
+    -Main Content
+      -Options for Selection
+	-Pets
+	-Activity
+	  -Pee
+	  -Poop
+	  -Fed
+	  -Walk
+	-Submit
+  -Log Screen
+    -A calendar in which each date can
+     selected to show the logged activity
+     of that day.
+     (how much is held can be changed in options)
+ 
+  -Pet Profile Screen
+    -Users will create a simple profile
+     for each pet whose activities they
+     would like to log. Others users
+     can request permission to subscribe
+     to these profiles to also view the
+     pet's activity in their own app.
+  
+  -Settings
+    -Contains different settings that allow
+     the user to customize their experience.
+     Settings to be fleshed out at a later moment.
